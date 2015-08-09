@@ -17,7 +17,7 @@ Our campers (students) start by working through our free, self-paced, browser-ba
 
 80% of our campers are over 25, and nearly a fifth of our campers are women.
 
-This code is running live at [FreeCodeCamp.com](http://www.FreeCodeCamp.com). We also have [Slack](http://freecodecamp.slack.com), a [blog](http://blog.freecodecamp.com), and even a [Twitch.tv channel](http://twitch.tv/freecodecamp). 
+This code is running live at [FreeCodeCamp.com](http://www.FreeCodeCamp.com). We also have [gitter](https://gitter.im/FreeCodeCamp/FreeCodeCamp), a [blog](http://blog.freecodecamp.com), and even a [Twitch.tv channel](http://twitch.tv/freecodecamp). 
 
 [Join our community](http://www.freecodecamp.com/signin)!
 
